@@ -7,7 +7,7 @@ actions:
     link: /getting-started.html
     type: primary
 
-  - text: Introduction
+  - text: Introduction-test
     link: https://vuejs.press/guide/introduction.html
     type: secondary
 

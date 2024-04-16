@@ -8,18 +8,21 @@ import {
   sidebarEn,
   sidebarZh,
 } from './configs/index.js'
-
-
+import { copyCodePlugin } from '@vuepress/plugin-copy-code'
+import { searchProPlugin } from "vuepress-plugin-search-pro";
+import { appendDatePlugin } from '@vuepress/plugin-append-date'
+import { seoPlugin } from '@vuepress/plugin-seo'
+import { searchPlugin } from '@vuepress/plugin-search'
 
 export default defineUserConfig({
 
-  lang: 'en-US',
+  lang: 'zh-CN',//'en-US',
   // set site base to default value
   base: '/',
   // extra tags in `<head>`
   head,
   title: '一山的学习笔记',
-  description: '从自学转码到校招进入职场，深感自学的困难。独行难，众行易。在这里整理分享自己学习过程中的资料，真心希望对你有帮助！',
+  description: '从自学转码到校招进入职场，深感自学的困难。独行难，众行易。在这里整理分享自己学习过程中的资料，一起加油！',
   theme: defaultTheme({
     logo: '/images/logo.png',
     repo: '578223592/yishanicode',
@@ -51,4 +54,20 @@ export default defineUserConfig({
   }),
 
   bundler: viteBundler(),
+  // use plugins
+  plugins: [
+    copyCodePlugin({
+      // options
+    }),
+
+    searchPlugin({
+      // 配置项
+    }),
+    appendDatePlugin(),
+    // 搜索引擎增强
+    // seoPlugin({
+    //   // 选项
+    // }),
+  ],
 })
+

@@ -3,21 +3,38 @@ import { version } from '../meta.js'
 
 export const navbarZh: NavbarConfig = [
   {
-    text: '指南',
+    text: '八股文',
     children: [
-      '/zh/guide/introduction.md',
-      '/zh/guide/getting-started.md',
-      '/zh/guide/configuration.md',
-      '/zh/guide/page.md',
-      '/zh/guide/markdown.md',
-      '/zh/guide/assets.md',
-      '/zh/guide/i18n.md',
-      '/zh/guide/deployment.md',
-      '/zh/guide/theme.md',
-      '/zh/guide/plugin.md',
-      '/zh/guide/bundler.md',
-      '/zh/guide/migration.md',
-      '/zh/guide/troubleshooting.md',
+      {
+        text: '前言',
+        children: [
+          '/notes/foreword/introduction.md',
+        ]
+      },
+      {
+        text: '语言',
+        children: [
+          '/notes/language/introduction.md',
+        ]
+      },
+      {
+        text: '网络',
+        children: [
+          '/notes/network/introduction.md',
+        ]
+      },
+      {
+        text: '操作系统',
+        children: [
+          '/notes/os/introduction.md',
+        ]
+      },
+      {
+        text: '数据库',
+        children: [
+          '/notes/database/introduction.md',
+        ]
+      },
     ],
   },
   {

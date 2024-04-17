@@ -1,6 +1,6 @@
 ---
 home: true
-title: Home
+title: 
 heroImage: /images/logo.png
 actions:
   - text: Get Started
@@ -25,9 +25,17 @@ features:
   - title: Bundlers
     details: Default bundler is Vite, while Webpack is also supported. Choose the one you like!
 
-footer: MIT Licensed | Copyright © 2018-present VuePress Community
+footer: 
 ---
+# 关于网站
+网站主要分享的是自学转码过程中觉得有用的知识，学习过程中资料的来源参考了很多大佬的无私分享，在这里列举出来，表示感谢：[阿秀][阿秀的网站]，[JavaGuide][JavaGuide的网站]，[代码随想录][代码随想录网站]，[小林coding][小林coding的网站]，其他默默分享的大佬。
 
-This is the content of home page. Check [Home Page Docs][default-theme-home] for more details.
+也向大家推荐这些网站，本站分享的部分内容是从大佬的博客中改动而来，如果侵权，请联系我删除。
 
-[default-theme-home]: https://vuejs.press/reference/default-theme/frontmatter.html#home-page
+目前网站也在积极建设中，欢迎大家提出宝贵意见，也欢迎指正网站中的错误内容，反馈方式：[这里](./网站相关/contributing.md)。
+
+
+[阿秀的网站]: https://interviewguide.cn/
+[JavaGuide的网站]: https://javaguide.cn/
+[代码随想录网站]: https://programmercarl.com/
+[小林coding的网站]: https://interviewguide.cn/

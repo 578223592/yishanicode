@@ -28,9 +28,9 @@ export default defineUserConfig({
     repo: '578223592/yishanicode',
     docsDir: 'docs',
     // navbar
-    navbar: navbarEn,
+    navbar: navbarZh,
     // sidebar
-    sidebar: sidebarEn,
+    sidebar: sidebarZh,
     // page meta
     editLinkText: 'Edit this page on GitHub',
     lastUpdatedText: '上次更新',
@@ -71,3 +71,5 @@ export default defineUserConfig({
   ],
 })
 
+
+// TODO：插件中添加有无访问量的插件

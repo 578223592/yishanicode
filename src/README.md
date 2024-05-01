@@ -83,69 +83,70 @@ highlights:
         details: 分享有用的干货
         # link: https://theme-hope.vuejs.press/guide/feature/search.html
 
-      - title: continued
+      - title: Continued
         icon: copy
-        details: 做有价值的事情
+        details: 做有价值的、可持续的事
         # link: https://theme-hope.vuejs.press/guide/feature/copy-code.html
 
-      - title: Image Preview
-        icon: image
-        details: Support viewing, zooming, sharing your page images like a gallery
-        link: https://theme-hope.vuejs.press/guide/feature/photo-swipe.html
 
-  - header: Blogging
-    description: Create personal blog with theme
+  - header: 关于网站与版权说明
+    description: 网站主要分享的是自学转码过程中觉得有用的知识，学习过程中资料的来源参考了很多大佬的分享，详细见【内容来源与版权说明】。目前网站也在积极建设中，欢迎大家提出宝贵意见，也欢迎指正网站中的错误内容，贡献和勘误反馈方式见【贡献指南】。
     image: /assets/image/blog.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
-    highlights:
-      - title: Blog features
-        icon: blog
-        details: Listing your articles with their dates, tags and categories
-        link: https://theme-hope.vuejs.press/guide/blog/intro.html
+  #   highlights:
+  #     - title: Blog features
+  #       icon: blog
+  #       details: Listing your articles with their dates, tags and categories
+  #       link: https://theme-hope.vuejs.press/guide/blog/intro.html
 
-      - title: Blog homepage
-        icon: blog
-        details: New blog homepage
-        link: https://theme-hope.vuejs.press/guide/blog/home.html
+  #     - title: Blog homepage
+  #       icon: blog
+  #       details: New blog homepage
+  #       link: https://theme-hope.vuejs.press/guide/blog/home.html
 
-      - title: Blogger info
-        icon: circle-info
-        details: Customize avatar, name, slogan, introduction and social links
-        link: https://theme-hope.vuejs.press/guide/blog/blogger.html
+  #     - title: Blogger info
+  #       icon: circle-info
+  #       details: Customize avatar, name, slogan, introduction and social links
+  #       link: https://theme-hope.vuejs.press/guide/blog/blogger.html
 
-      - title: Timeline
-        icon: clock
-        details: Read through blog posts in a timeline
-        link: https://theme-hope.vuejs.press/guide/blog/timeline.html
+  #     - title: Timeline
+  #       icon: clock
+  #       details: Read through blog posts in a timeline
+  #       link: https://theme-hope.vuejs.press/guide/blog/timeline.html
 
-  - header: Advanced
-    description: Advanced features to improve site SEO and user experience
-    image: /assets/image/advanced.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/4-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/4-dark.svg
-    highlights:
-      - title: SEO Enhancement
-        icon: dumbbell
-        details: Optimize pages for search engines
-        link: https://theme-hope.vuejs.press/guide/advanced/seo.html
+  # - header: Advanced
+  #   description: Advanced features to improve site SEO and user experience
+  #   image: /assets/image/advanced.svg
+  #   bgImage: https://theme-hope-assets.vuejs.press/bg/4-light.svg
+  #   bgImageDark: https://theme-hope-assets.vuejs.press/bg/4-dark.svg
+  #   highlights:
+  #     - title: SEO Enhancement
+  #       icon: dumbbell
+  #       details: Optimize pages for search engines
+  #       link: https://theme-hope.vuejs.press/guide/advanced/seo.html
 
-      - title: Sitemap
-        icon: sitemap
-        details: Generate a Sitemap for your site
-        link: https://theme-hope.vuejs.press/guide/advanced/sitemap.html
+  #     - title: Sitemap
+  #       icon: sitemap
+  #       details: Generate a Sitemap for your site
+  #       link: https://theme-hope.vuejs.press/guide/advanced/sitemap.html
 
-      - title: Feed
-        icon: rss
-        details: Generate feed to allow users to subscribe it
-        link: https://theme-hope.vuejs.press/guide/advanced/feed.html
+  #     - title: Feed
+  #       icon: rss
+  #       details: Generate feed to allow users to subscribe it
+  #       link: https://theme-hope.vuejs.press/guide/advanced/feed.html
 
-      - title: PWA
-        icon: mobile-screen
-        details: Make your site more like an APP
-        link: https://theme-hope.vuejs.press/guide/advanced/pwa.html
+  #     - title: PWA
+  #       icon: mobile-screen
+  #       details: Make your site more like an APP
+  #       link: https://theme-hope.vuejs.press/guide/advanced/pwa.html
 
 copyright: false
 footer: Copyright ©2024-present <a href="https://beian.miit.gov.cn/" target="_blank">蜀ICP备2024071909号-1</a>
 ---
 
+[阿秀的网站]: https://interviewguide.cn/
+[JavaGuide的网站]: https://javaguide.cn/
+[代码随想录网站]: https://programmercarl.com/
+[小林coding的网站]: https://interviewguide.cn/
+[小白Coding网站]:https://www.xiaobaicoding.com/

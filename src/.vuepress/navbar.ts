@@ -50,6 +50,18 @@ export default navbar([
         ]
       },
       {
+        text: '内容来源与版权说明',
+        children: [
+          '/more_about/context.md',
+        ]
+      },
+      {
+        text: '贡献指南',
+        children: [
+          '/more_about/contributing.md',
+        ]
+      },
+      {
         text: '网站时间线',
         children: [
           '/timeline/',

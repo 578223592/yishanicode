@@ -1,6 +1,6 @@
 ---
 # This is the title of the article
-title: Page Config
+title: Page Config汇总
 # This is the icon of the page
 icon: file
 # This control sidebar order

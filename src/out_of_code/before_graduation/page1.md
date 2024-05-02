@@ -1,7 +1,7 @@
 ---
 lang: zh-CN
-title: page1
-description: 讲讲代码之外需要了解的事情
+title: 其他问题
+description: 除了通用问题之外的其他问题
 ---
 
 

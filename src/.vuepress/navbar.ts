@@ -2,7 +2,6 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/", //首页
-  
   {
     text: '八股文',
     children: [

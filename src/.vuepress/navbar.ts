@@ -36,6 +36,12 @@ export default navbar([
           '/notes/database/introduction.md',
         ]
       },
+      {
+        text: '场景题、智力题、其他',
+        children: [
+          '/notes/scenario_question/introduction.md',
+        ]
+      },
     ],
   },
   "/out_of_code/",

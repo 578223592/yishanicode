@@ -114,7 +114,7 @@ The theme contains some useful components. Here are some examples:
 
   ```component VPCard
   title: Mr.Hope
-  desc: Where there is light, there is hope
+  desc: Where there is light, there is hope123
   logo: https://mister-hope.com/logo.svg
   link: https://mister-hope.com
   background: rgba(253, 230, 138, 0.15)

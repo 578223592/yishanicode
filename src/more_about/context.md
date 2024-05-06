@@ -20,6 +20,7 @@ description: 内容来源与版权说明
 - [小白Coding][小白Coding网站]
 - CS指南公众号
 - [钝悟 | dunwu][dunwu的github]
+- [极客时间][极客时间网站]
 - 其他n多乐于分享的大佬。
 
 
@@ -35,4 +36,5 @@ description: 内容来源与版权说明
 [小林coding的网站]: https://interviewguide.cn/
 [小白Coding网站]:https://www.xiaobaicoding.com/
 [dunwu的github]: https://github.com/dunwu
+[极客时间网站]: https://time.geekbang.org/
 [本站版权说明]: /more_about/context.md

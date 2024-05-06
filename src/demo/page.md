@@ -109,7 +109,7 @@ const MyComponent = defineComponent({
 
 [跳到本页面的二级标题](#page-content)  ： 测试可以成功
 
-[跳到其他页面的二级标题](./markdown.md/#markdown-config) ； 2024-5-4：测试不成功，待优化
+[跳到其他页面的二级标题](./markdown.md/#markdown-config) ； 2024-5-4：测试不成功，待优化TODO
 
 ---
 

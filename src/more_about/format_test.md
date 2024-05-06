@@ -24,6 +24,13 @@ tag:
 # You can customize copyright content
 # copyright: No Copyright
 ---
+::: tip 友情提示
+
+- **内容建设：** 内容正在不断的完善中，如果对内容有疑问或者希望添加内容，请留言，欢迎提出建议。
+- **转载说明：** 本站文章在创作过程中，部分内容整合了许多大佬的观点，在这里表示感谢，详见[版权说明](/more_about/context.md)，如有侵权或者不希望转载，请联系我添加出处或者删除相关内容。同时，如需转载本站文章，转载请在文首注明出处。
+
+:::
+
 参考：
 https://ecosystem.vuejs.press/zh/themes/default/markdown.html#%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AE%B9%E5%99%A8
 
@@ -45,6 +52,6 @@ https://ecosystem.vuejs.press/zh/themes/default/markdown.html#%E8%87%AA%E5%AE%9A
 
 
 
-进度记录：
-2024-5-4
-![alt text](./asset/image.png)
+进度记录：TODO
+2024-5-6
+![alt text](asset/image.png)

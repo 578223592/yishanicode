@@ -1,9 +1,35 @@
 ---
-lang: zh-CN
+# This is the title of the article
 title: 其他问题
-description: 除了通用问题之外的其他问题
+# This is the icon of the page
+icon: file
+# This control sidebar order
+# order: 1
+# Set author
+# author: Ms.Hope
+# Set writing time
+date: 2024-05-03
+# A page can have multiple categories
+# category:
+#   - 八股
+# A page can have multiple tags
+tag:
+  - 其他
+# this page is sticky in article list
+# sticky: true
+# this page will appear in starred articles
+# star: true
+# You can customize footer content
+# footer: Footer content for test
+# You can customize copyright content
+# copyright: No Copyright
 ---
+::: tip 友情提示
 
+- **内容建设：** 内容正在不断的完善中，如果对内容有疑问或者希望添加内容，请留言，欢迎提出建议。
+- **转载说明：** 本站文章在创作过程中，部分内容整合了许多大佬的观点，在这里表示感谢，详见[版权说明](/more_about/context.md)，如有侵权或者不希望转载，请联系我添加出处或者删除相关内容。同时，如需转载本站文章，转载请在文首注明出处。
+
+:::
 
 ## 今年没准备好，是否要延毕再来一次校招？
 先说结论：**一般来说，不建议主动延毕** 。
@@ -17,4 +43,14 @@ description: 除了通用问题之外的其他问题
 
 综上，结论是不建议延毕来校招。当然更具体的还要看自己当前的学习进度以及学历情况综合考量。
 
+## 在准备秋招和实习，关于毕业，希望你能注意到这些：
+
+下面的主要内容是针对有小论文要求的研究生同学，如果你不是研究生或者没有小论文要求，也可以看一看，或许有帮助。
+
+- **不要一段时间（几周）只干一件事情**：
+    - 这句话的适用范围包括但不仅限于如下的情况：1.学校有小论文要求，没有达到，因此一段时间一直弄小论文，丢下开发技能不管；2.在复习八股的过程中，觉得算法或者某一方面比较薄弱，因此决定短时间攻破，一段时间全部刷算法；
+    - 这样建议的原因是因为很多事情没法一下子完成，比如说小论文没法一两天就完成，算法实力也没法一两天就提升上去，如果一段时间都全力小论文或者算法，那么你的计网知识、数据库知识等就会遗忘，后面又需要捡起来，因此一个比较合理的安排是每项任务都分配一段时间（具体分配多久因人而异），但是都要分配。
+- **经常复盘调整** ： 很多同学不喜欢复盘，认为非常浪费时间。个人认为复盘非常重要，只有复盘了，你才知道自己到底哪部分不足，下一步的计划应该如何调整。这点非常重要！！
+- **论文内容上保证毕业就行** : 这点不适用于读博或者算法方向的同学，对于开发方向的同学，毕竟开发技能还是立足之本。
+- **如果想去国企或者运营商​运营商不太用开发技能** ：国企或者运营商​好像是没需要特别准备的，开发的话Java用的比较多，开发技能要求很低。可能对其他的方面有一些要求，比如：学校水平、四六级等等。
 
